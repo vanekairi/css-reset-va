@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: pink;
+}
+
+h1{
+  margin: 0;
+  color: white;
+  background-color: blACK;
+  padding: 20px;
+  font-size: 50px;
+  font-family: "arial", sans-serif;
+}
+h2{
+  color:blue;
+}
+.letragiga{
+  font-size: 200%;
+  color:black
+}
+.destaque{
+  color:blue
+}
+p{
+  color:black;
+}
+#roxo{
+  color: purple;
+}
